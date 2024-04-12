@@ -1,2 +1,3 @@
 # samyati
-making the heritage learning easy and smooth 
+
+making the heritage learning easy and smooth
